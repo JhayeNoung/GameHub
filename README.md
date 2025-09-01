@@ -1,6 +1,6 @@
 # About
 
-This repository contains the completed GameHub project
+This repository contains the completed GameHub Website Project
 
 ## Getting Started
 
