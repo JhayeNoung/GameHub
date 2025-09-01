@@ -11,9 +11,9 @@ const NavBar = () => {
         <Image src={logo} boxSize="60px" objectFit='cover' />
       </Link>
       <SearchInput />
-      <Link to="/react-query-test">
+      {/* <Link to="/react-query-test">
         <p>React Query Test</p>
-      </Link>
+      </Link> */}
       <ColorModeSwitch />
     </HStack>
   );
